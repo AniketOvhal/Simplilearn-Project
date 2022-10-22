@@ -1,2 +1,0 @@
-# Simplilearn-Project
-LockedMe Project 
